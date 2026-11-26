@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Prince Kumar
-### 🚀 Aspiring Software Engineer | Java Developer | Full Stack Learner
+### 🚀 Aspiring Software Engineer | AI Engineer !
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Full+Stack+Developer;Data+Structures+%26+Algorithms;Always+Learning+New+Things+%F0%9F%9A%80" />
 
